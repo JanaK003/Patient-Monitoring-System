@@ -81,3 +81,6 @@ Body Temperature: 36.7°C
 2. **Data not updating**: Ensure the sensors are connected properly and check their pin assignments in the code.
 3. **Web server not accessible**: Confirm that the ESP32 is on the same network as the device you are trying to access the server from.
 
+
+## Credits
+This project is based on tutorials and resources from [How2Electronics](https://www.how2electronics.com).
